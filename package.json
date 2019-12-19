@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sanisha7/Sanisha-Beingzero/issues"
   },
-  "homepage": "https://github.com/sanisha7/Sanisha-Beingzero#readme"
+  "homepage": "https://github.com/sanisha7/Sanisha-Beingzero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
